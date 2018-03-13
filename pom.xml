@@ -85,6 +85,12 @@
         <repository>
           <id>mvnrepository-releases</id>
           <url>http://central.maven.org/maven2/</url>
+          <snapshots>
+              <enabled>false</enabled>
+          </snapshots>
+          <releases>
+              <enabled>true</enabled>
+          </releases>
         </repository>
         <repository>
             <id>sonatype-releases</id>
