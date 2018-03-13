@@ -106,6 +106,10 @@
             <id>shibboleth-releases</id>
             <url>https://build.shibboleth.net/nexus/content/repositories/releases</url>
         </repository>
+        <repository>
+          <id>mvnrepository</id>
+          <url>https://mvnrepository.com</url>
+        </repository>
     </repositories>
 
     <profiles>
