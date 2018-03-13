@@ -125,7 +125,7 @@
                 <dependency>
                    <groupId>org.jasig.cas</groupId>
                    <artifactId>cas-server-support-ldap</artifactId>
-                   <version>${cas.version}</version>
+                   <version>5.0.4</version>
               </dependency>
                 <!--
                 ...Additional dependencies may be placed here...
