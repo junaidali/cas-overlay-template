@@ -107,8 +107,8 @@
             <url>https://build.shibboleth.net/nexus/content/repositories/releases</url>
         </repository>
         <repository>
-          <id>mvnrepository</id>
-          <url>https://mvnrepository.com/repos</url>
+          <id>mvnrepository-releases</id>
+          <url>http://central.maven.org/maven2/</url>
         </repository>
     </repositories>
 
