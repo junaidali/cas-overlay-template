@@ -83,7 +83,7 @@
 
     <repositories>
         <repository>
-            <id>central-maven-cas</id>
+            <id>apereo-maven-cas</id>
             <url>http://central.maven.org/maven2/org/apereo/cas/</url>
             <snapshots>
                 <enabled>false</enabled>
