@@ -123,9 +123,9 @@
                     <scope>runtime</scope>
                 </dependency>
                 <dependency>
-                   <groupId>org.jasig.cas</groupId>
+                   <groupId>org.apereo.cas</groupId>
                    <artifactId>cas-server-support-ldap</artifactId>
-                   <version>5.0.4</version>
+                   <version>${cas.version}</version>
               </dependency>
                 <!--
                 ...Additional dependencies may be placed here...
