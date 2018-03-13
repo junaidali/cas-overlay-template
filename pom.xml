@@ -84,7 +84,7 @@
     <repositories>
         <repository>
             <id>apereo-maven-cas</id>
-            <url>http://central.maven.org/maven2/org/apereo/cas/</url>
+            <url>http://central.maven.org/maven2/</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
@@ -136,7 +136,7 @@
                    <groupId>org.apereo.cas</groupId>
                    <artifactId>cas-server-support-ldap</artifactId>
                    <version>${cas.version}</version>
-              </dependency>
+                </dependency>
                 <!--
                 ...Additional dependencies may be placed here...
                 -->
