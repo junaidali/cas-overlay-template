@@ -108,7 +108,7 @@
         </repository>
         <repository>
           <id>mvnrepository</id>
-          <url>https://mvnrepository.com</url>
+          <url>https://mvnrepository.com/repos</url>
         </repository>
     </repositories>
 
